@@ -21,3 +21,11 @@ Please observe the following guidelines when contributing to this project:
 - adopt a lean approach to development, adopting tools and features only when they are needed
 - feel free to experiment and fail -- "no shame in the game"
 - build on existing efforts -- there are great tools and collaborators in the open-source community (see: [OSGeo](https://www.osgeo.org/))
+
+## FAQ
+
+| Question                          | Answer                                                                                           |
+|-----------------------------------|--------------------------------------------------------------------------------------------------|
+| What is Sustainable Urban Design? | Sustainable Urban Design, is a 100% open-source prototype toolkit. Go look at our [GitHub](https://github.com/SustainableUrbanDesign/app)                          |
+| How can I contribute?             | Well go look at [how to contribute](https://github.com/SustainableUrbanDesign/app/CONTRIBUTING.md) |
+| How can I donate?                 | As of right now, we don't have a donation page. But, thats being considered right now!           |
